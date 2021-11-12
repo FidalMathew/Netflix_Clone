@@ -16,17 +16,20 @@ You will also see any lint errors in the console.
 
 <br/>
 
-### `Key features`
+### Key features -
 
 <br/>
 
-1.Home Page-
+### 1. Home Page-
+
 <img src="src/img-githubReadme/1.png" alt="home+ banner+navbar">
 <br/>
 
-2.Movies fetched via API
+### 2. Movies fetched via API
+
 <img src="src/img-githubReadme/2.png" alt="rows">
 <br/>
 
-3.Play trailer when movie is clicked
+### 3. Play trailer when movie is clicked
+
 <img src="src/img-githubReadme/3.png" alt="Youtube Trailer">
