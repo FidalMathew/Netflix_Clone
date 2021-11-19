@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm install`
 
-It install all the dependancies present in the package.json file.
+It install all the packages and dependancies present in the package.json file.
 
 ### `npm start`
 
